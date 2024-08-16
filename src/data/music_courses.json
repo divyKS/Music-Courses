@@ -1,0 +1,55 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Take your guitar skills to the next level with advanced techniques and theory.",
+        "price": 149.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/advanced_guitar.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the fundamentals of music theory and apply them to your playing.",
+        "price": 79.99,
+        "instructor": "Alex Johnson",
+        "isFeatured": true,
+        "image": "/courses/music_theory.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Learn how to play piano with this beginner-friendly course.",
+        "price": 89.99,
+        "instructor": "Emily White",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Vocal Training 101",
+        "slug": "vocal-training-101",
+        "description": "Improve your singing voice with this comprehensive vocal training course.",
+        "price": 109.99,
+        "instructor": "Chris Brown",
+        "isFeatured": true,
+        "image": "/courses/vocal_training.jpg"
+      }
+    ]
+  }
+  
