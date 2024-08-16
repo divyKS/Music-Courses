@@ -18,7 +18,7 @@
         "price": 149.99,
         "instructor": "Jane Smith",
         "isFeatured": false,
-        "image": "/courses/advanced_guitar.jpg"
+        "image": "/courses/blues.jpg"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 79.99,
         "instructor": "Alex Johnson",
         "isFeatured": true,
-        "image": "/courses/music_theory.jpg"
+        "image": "/courses/classical-music.jpg"
       },
       {
         "id": 4,
@@ -48,7 +48,57 @@
         "price": 109.99,
         "instructor": "Chris Brown",
         "isFeatured": true,
-        "image": "/courses/vocal_training.jpg"
+        "image": "/courses/vocalist.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Drumming Basics",
+        "slug": "drumming-basics",
+        "description": "Start your drumming journey with this introductory course for beginners.",
+        "price": 89.99,
+        "instructor": "Tom Black",
+        "isFeatured": false,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Learn the art of jazz improvisation with this expert-led course.",
+        "price": 129.99,
+        "instructor": "Ella Fitzgerald",
+        "isFeatured": true,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Songwriting Masterclass",
+        "slug": "songwriting-masterclass",
+        "description": "Master the craft of songwriting with tips from industry professionals.",
+        "price": 139.99,
+        "instructor": "Paul McCartney",
+        "isFeatured": true,
+        "image": "/courses/song-writing.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Music Production Essentials",
+        "slug": "music-production-essentials",
+        "description": "Learn the essentials of music production and create your own tracks.",
+        "price": 159.99,
+        "instructor": "Dr. Dre",
+        "isFeatured": false,
+        "image": "/courses/music_prod.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Classical Guitar Techniques",
+        "slug": "classical-guitar-techniques",
+        "description": "Refine your classical guitar playing with advanced techniques.",
+        "price": 119.99,
+        "instructor": "Andrés Segovia",
+        "isFeatured": true,
+        "image": "/courses/classical-music.jpg"
       }
     ]
   }
