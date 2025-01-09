@@ -50,11 +50,11 @@ const FeaturedCourses = () => {
                                     <p className="text-sm text-neutral-600 dark:text-neutral-400">
                                         {course.description}
                                     </p>
-                                    <Link href={course.slug}>
+                                    {/* <Link href={course.slug}>
                                         <button className="rounded-full pl-4 pr-4 py-1 text-white flex items-center space-x-1 bg-black mt-4 text-xs font-bold dark:bg-zinc-800">
                                             Learn More
                                         </button>
-                                    </Link>
+                                    </Link> */}
                                 </BackgroundGradient>
                             </div>
                         ))}
